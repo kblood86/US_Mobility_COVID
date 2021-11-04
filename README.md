@@ -1,7 +1,5 @@
 ## Mobility Changes in the U.S during the COVID-19 Pandemic 2020-2021
 
-TEAM MATPLOTLIB.PYPLOT: Lucas Munson, Katie  Blood, Gloria Evans
-
 Data Source: https://www.google.com/covid19/mobility/ 
 
 These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
@@ -72,3 +70,4 @@ Further Considerations:
 -Finding additional data sources to provide 2019 data for a more realistic baseline and further year comparisons.   
 -Drilling down into county-level data for a more complete look at the rural/urban divide that exists during the pandemic.   
 
+TEAM MATPLOTLIB.PYPLOT: Lucas Munson, Katie  Blood, Gloria Evans
